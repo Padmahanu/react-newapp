@@ -1,2 +1,2 @@
 #start new app
-all apps in one place
+all apps in one place for react
